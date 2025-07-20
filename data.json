@@ -1,0 +1,12 @@
+{
+  "topics": [
+    {
+      "title": "Algebra Basics",
+      "description": "Introduction to variables, expressions, and linear equations."
+    },
+    {
+      "title": "Calculus I",
+      "description": "Limits, derivatives, and the foundation of integral calculus."
+    }
+  ]
+}
